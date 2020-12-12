@@ -18,7 +18,6 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 
 <!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
 
-### My Contacts:
  <a href="mailto:zeggyfuentes658@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" alt="email" style="vertical-align:top margin:6px 4px">
   </a>  
@@ -33,4 +32,7 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
   </a>
 <a href="https://twitter.com/FuentesZeggy">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" alt="Twitter" style="vertical-align:top margin:6px 4px">
+  </a>
+<a href="https://www.youtube.com/channel/UC8_a-UZwaJQgc4JEXs49Q7g">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="Youtube" style="vertical-align:top margin:6px 4px">
   </a>
