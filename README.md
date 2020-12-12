@@ -53,7 +53,7 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 <img src="https://github.com/Zekkun23/Zekkun23/blob/main/catgirl%20mori.jpg" alt="Picture of mori"/>
 </p>
 
-### The others are cool too! (Art by @walfieee on twitter).
+### The others are cool too! (Art by @walfieee on twitter)
 <p align="center">
  <img src="https://github.com/Zekkun23/Zekkun23/blob/main/watsonparade.gif" alt="Watson Parade"/>
 </p>
