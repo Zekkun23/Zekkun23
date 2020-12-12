@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there
 My name is Zeggy Kyle T. Fuentes and I am a 16 year old student studying Diploma for Creative Computing. I am also in need of a new laptop so if anyone wants to donate, just hmu :))
 
 Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
@@ -11,13 +11,22 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 - 📫 How to reach me: Feel free to contact me using one of my contact details below.
 - 😄 Pronouns: He/Hee. Nah im joking lmfao.
 
-### Also, I believe in Mori Supremacy
+# Languages and Tools : 
+
+
 <p align="center">
-<img src="https://github.com/Zekkun23/Zekkun23/blob/main/catgirl%20mori.jpg" alt="Picture of mori"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs_larger.png" alt="node.js" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="javascript" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/chrome.png" alt="chrome" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png" alt="PC" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/mobile.png" alt="Mobile" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/xbox.png" alt="xbox" style="vertical-align:top margin:6px 4px">
 </p>
 
-<!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
+# My Contacts : 
 
+<p align="center">
  <a href="mailto:zeggyfuentes658@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" alt="email" style="vertical-align:top margin:6px 4px">
   </a>  
@@ -36,3 +45,15 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 <a href="https://www.youtube.com/channel/UC8_a-UZwaJQgc4JEXs49Q7g">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="Youtube" style="vertical-align:top margin:6px 4px">
   </a>
+</p>
+<!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
+
+### Also, I believe in Mori Supremacy
+<p align="center">
+<img src="https://github.com/Zekkun23/Zekkun23/blob/main/catgirl%20mori.jpg" alt="Picture of mori"/>
+</p>
+
+### The others are cool too! (Art by @walfieee on twitter).
+<p align="center">
+ <img src="https://github.com/Zekkun23/Zekkun23/blob/main/watsonparade.gif" alt="Watson Parade"/>
+</p>
