@@ -51,10 +51,18 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 </p>
 <!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
 
+# Some random stuff that looks cool : 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://spotify-github-profile.vercel.app/api/view?uid=8x9xg1pxjey72inkf857lh2d2&cover_image=true&theme=default"/>
+  </a>
+</p>
 
-[![Zeggy Github stats](https://github-readme-stats.vercel.app/api?username=Zekkun23)](https://github.com/anuraghazra/github-readme-stats%theme=dark&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekkun23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center" >
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa">
+  </a>
+</p>
 
 ### Also, I believe in Mori Supremacy
 <p align="center">
