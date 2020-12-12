@@ -18,6 +18,9 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs_larger.png" alt="node.js" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="javascript" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="vscode" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png" alt="vs" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/office_365.png" alt="office 365" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/chrome.png" alt="chrome" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png" alt="PC" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/mobile.png" alt="Mobile" style="vertical-align:top margin:6px 4px">
@@ -47,6 +50,10 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
   </a>
 </p>
 <!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
+
+<p align="center">
+[![Zeggy Github stats](https://github-readme-stats.vercel.app/api?username=Zekkun23)](https://github.com/anuraghazra/github-readme-stats%theme=dark)
+</p>
 
 ### Also, I believe in Mori Supremacy
 <p align="center">
