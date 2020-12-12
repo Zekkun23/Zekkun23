@@ -51,9 +51,10 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 </p>
 <!-- This is where i got the icons from: https://github.com/MikeCodesDotNET/ColoredBadges --!>
 
-<p align="center">
-[![Zeggy Github stats](https://github-readme-stats.vercel.app/api?username=Zekkun23)](https://github.com/anuraghazra/github-readme-stats%theme=dark)
-</p>
+
+[![Zeggy Github stats](https://github-readme-stats.vercel.app/api?username=Zekkun23)](https://github.com/anuraghazra/github-readme-stats%theme=dark&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekkun23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Also, I believe in Mori Supremacy
 <p align="center">
