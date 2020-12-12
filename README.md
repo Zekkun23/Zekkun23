@@ -54,7 +54,7 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 # Some random stuff that looks cool : 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Zekkun23&theme=dark&count_private=true&show_icons=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Zekkun23&count_private=true&theme=dark&show_icons=true"/>
   </a>
 </p>
 
