@@ -60,7 +60,7 @@ Feel free to drop by my discord server: https://discord.gg/S9hpZMUN
 
 <p align="center" >
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8x9xg1pxjey72inkf857lh2d2&cover_image=true&theme=default">
   </a>
 </p>
 
