@@ -4,7 +4,7 @@
  </p>
  
 # About me
-My name is Zeggy Kyle T. Fuentes and I am a 16 year old student studying Diploma for Creative Computing. I am also in need of a new laptop so if anyone wants to donate, just hmu :))
+My name is Zeggy Kyle T. Fuentes and I am a 17 year old student studying Diploma for Creative Computing. I am also in need of a new laptop so if anyone wants to donate, just hmu :)) (Discord - Zekkun#2644)
 
  - 🔭 I’m currently working on a discord bot for my small discord server.
 - 🌱 I’m currently learning discord.js and cpp
